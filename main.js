@@ -34,14 +34,14 @@ function mk (e) {
    if ( kp == '37' ) {
     left()
 }
-   if ( kp == '38'); {
+   if ( kp == '38') {
        up()
    }
-   if ( kp == '39'); {
+   if ( kp == '39') {
        right()
    }
 
-   if ( kp == '40'); {
+   if ( kp == '40') {
        down()
    }
   } 
